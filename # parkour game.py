@@ -1,7 +1,7 @@
 import turtle
 import time
 
-# window settings
+# window 
 wn = turtle.Screen()
 wn.bgcolor("black")
 wn.setup(height=600,width=900)
