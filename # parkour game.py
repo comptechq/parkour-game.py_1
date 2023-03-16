@@ -379,7 +379,7 @@ while True:
         player.dy = 0
         player.state = "jumping"
         time.sleep(2)
-        slab1.goto(100, 1000000)
+        slab1.goto(100000, 1000000)
         slab2.goto(100000, 1000000)
         slab3.goto(100000, 1000000)
         slab4.goto(100000, 1000000)
